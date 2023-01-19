@@ -1,0 +1,4 @@
+sites:
+
+https://www.kaggle.com/code/balaka18/email-spam-classification
+https://medium.com/@yesprabhakaran98/email-spam-classification-92b661d3b700
