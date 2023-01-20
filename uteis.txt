@@ -1,3 +1,6 @@
+Data:
+https://www.kaggle.com/datasets/ganiyuolalekan/spam-assassin-email-classification-dataset
+
 sites:
 
 https://www.kaggle.com/code/balaka18/email-spam-classification
